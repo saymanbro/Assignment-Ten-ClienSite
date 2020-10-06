@@ -1,0 +1,26 @@
+img{
+    filter: contrast(500);
+    width: 40%;
+}
+.register-form{
+    margin-top: 30px;
+    padding: 20px;
+    margin-left: 300px;
+    text-align: center;
+    border: 1px solid black;
+    width:50%;
+    height: 400px;
+}
+.register-form input{
+    border: none;
+    border-bottom: 1px solid black;
+    margin: 5px;
+}
+.button-submit{
+    padding:5px 80px;
+    color:black;
+    font-size: 18px;
+    font-weight:bold;
+    background-color: cyan;
+    border: none;
+}
